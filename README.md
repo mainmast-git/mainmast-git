@@ -1,4 +1,4 @@
-# 🚹 About Me:  <img align="right" src="https://visitcount.itsvg.in/api?id=ramin-samadi&icon=0&color=0=5&pretty=false">
+# 🚹 About Me:  <img align="right" src="https://visitcount.itsvg.in/api?id=ramin-samadi&icon=0&color=0=5">
 I'm Ramin, a passionate open source enthusiast. I'm currently based in Sweden, and I love contributing to free and open source software.<br><br>
 ⚙️ I'm currently working on:   
 Nothing since I am studying<br>
@@ -38,7 +38,6 @@ Web development technologies such as JavaScript, HTML and CSS.
 ![](https://github-readme-stats.vercel.app/api?username=ramin-samadi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramin-samadi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=ramin-samadi&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramin-samadi&theme=transparent&no-bg=true&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramin-samadi&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
