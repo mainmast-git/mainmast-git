@@ -1,4 +1,5 @@
-# 🚹 About Me:  <img align="right" src="https://visitcount.itsvg.in/api?id=ramin-samadi&icon=0&color=0=5">
+[![](https://visitcount.itsvg.in/api?id=ramin-samadi&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🚹 About Me:
 I'm Ramin, a passionate open source enthusiast. I'm currently based in Sweden, and I love contributing to free and open source software.<br><br>
 ⚙️ I'm currently working on:   
 Nothing since I am studying<br>
