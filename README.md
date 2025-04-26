@@ -30,9 +30,9 @@ Web development technologies such as JavaScript, HTML and CSS.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramin-samadi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramin-samadi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=ramin-samadi&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=mainmast-git&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mainmast-git&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=mainmast-git&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramin-samadi&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mainmast-git&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
