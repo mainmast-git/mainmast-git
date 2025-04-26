@@ -1,5 +1,5 @@
 # 🚹 About Me:
-I'm Ramin, a passionate open source enthusiast. I'm currently based in Sweden, and I love contributing to free and open source software.<br><br>
+I'm a passionate open source enthusiast and I love contributing to free and open source software.<br><br>
 ⚙️ I'm currently working on:   
 Nothing since I am studying<br>
 
@@ -8,13 +8,7 @@ Shell Script - I'm learning it because it is essential for Linux automation<br>
 
 💬 Ask me about:   
 Anything related to Linux and open source software.   
-Web development technologies such as JavaScript, HTML and CSS.
-
-## 🌐 Socials:
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ramin-samadi@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramin-samadi/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@raminsamadi) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Raviper1) 
+Web development technologies such as JavaScript, HTML and CSS. 
 
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
